@@ -21,6 +21,28 @@ navbar-links:
     - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
+### Overview of steps required
+
+There are only three simple steps, ....  
+
+Here is a 40-second video ....
+
+<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
+
+
+<div class="gs-section-01" markdown="1">
+
+
+### 1. Fork the Beautiful Jekyll repository 
+
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub.
+
+
+</div>
+
+
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -46,11 +68,11 @@ social-network-links:
   twitter: ""
   patreon: ""
   youtube: ""
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
+#  medium: 
+#  reddit: 
+#  linkedin: 
+#  xing: 
+#  stackoverflow: ""
 #  snapchat: ""
 #  instagram: ""
 #  spotify: ""
@@ -100,15 +122,15 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#F0F8FF"
+navbar-text-col: "#008000"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
+text-col: "#000000"
+link-col: "#00FFFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-text-col: "#8B008B"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -236,3 +258,13 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
