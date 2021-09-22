@@ -216,7 +216,7 @@ layout: nice-text
 
         &lt;h2> Ryan vs Ryan &lt;/h2>
 
-        &lt;table id="ryan-v-ryan">
+        &lt;table id="ryan_v_ryan.md">
 
         &lt;thead>
           &lt;tr>
